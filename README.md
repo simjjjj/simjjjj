@@ -1,4 +1,3 @@
-## 리듬이?👋
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to-nl-Sim's%20Github&descAlign=0&descAlignY=40&fontAlignY=35&textBg=false&animation=fadeIn&rotate=0&strokeWidth=3&stroke=black&fontColor=black)
 <!--
 **simjjjj/simjjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
