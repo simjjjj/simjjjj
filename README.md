@@ -1,4 +1,4 @@
-## Hi there 👋
+## 리듬이?👋
 
 <!--
 **simjjjj/simjjjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
