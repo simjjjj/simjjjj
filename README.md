@@ -50,6 +50,7 @@
 | 프로젝트명 | 설명 | 기술 스택 | 기간 | 링크 |
 |------------|------|------------|------|------|
 | 🧑‍🎓 UniMeet | 대학생 AI 미팅 앱, 실시간 매칭·채팅 구현 | Java, Spring Boot, MongoDB, Redis, Docker, WebSocket | 2025.03 ~ | [GitHub](https://github.com/Dongyeon0123/UNIMEET) |
+| 🐱 Cat MBTI API | 고양이 성격 유형 테스트용 MBTI 스타일 API. DB 없이 하드코딩된 데이터로 RESTful 설계 및 AI 기반 vibe 코딩 연습용으로 개발 | Java, Spring Boot | 2025.07 | [GitHub](https://github.com/simjjjj/cat-mbti-vibe-api) |
 
 ---
 
