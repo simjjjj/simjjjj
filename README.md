@@ -28,8 +28,9 @@
 
 - 🌐 **RESTful API** 및 백엔드 아키텍처 설계 경험
 - 🧠 **도메인 모델링**과 **비즈니스 로직 분리**에 관심
-- ☁️ **Docker, AWS 기반의 CI/CD 및 배포 자동화** 경험
+- ☁️ **Docker를 활용한 로컬 개발 환경 구성 및 서비스 실행 경험**
 - 📚 꾸준한 학습과 코드 개선을 즐기며, 팀과 함께 성장하는 개발자입니다
+
 
 ---
 
@@ -41,7 +42,7 @@
 
 - **Java, Spring Boot**: 객체 지향 및 JPA 기반 개발, Spring Security 인증 인가 구현
 - **Database**: MySQL, MongoDB, Redis - 트랜잭션, 인덱싱, 캐시 설계 경험
-- **Infra/DevOps**: Docker 기반 컨테이너 구성 및 AWS 배포 자동화 경험
+- **Infra/DevOps**: Docker를 활용한 MongoDB, Redis 등 개발용 컨테이너 구성 경험
 
 ---
 
@@ -69,9 +70,11 @@
 - Redis: 세션 관리 및 pub/sub 기반 채팅 시스템 구현
 
 ### 📌 DevOps & Cloud
-- Docker로 멀티 컨테이너 환경 구성
-- AWS EC2 + S3 + RDS 기반 인프라 구축 및 배포
-- GitHub Actions 기반 CI/CD 자동화
+- Docker를 활용해 개발 환경에서 MongoDB, Redis 등 컨테이너 기반 DB를 손쉽게 실행
+- 실제 운영 배포에는 미흡하지만, 로컬 개발 환경 자동화와 컨테이너 사용의 이점을 직접 체감
+- AWS EC2 + S3 + RDS 기반 인프라 구축 경험
+- GitHub Actions 기반 CI/CD 자동화 (기초 단계)
+
 
 ---
 
